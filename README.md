@@ -1,1 +1,13 @@
-# CS255
+# CS255 - Final Journal
+**Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?**
+The client of the DriverPass project was, infact, DriverPass. Owned by Liam and managed by Ian, they came to our programming company wanting to design a program that helped people pass their DMV driver tests.
+They wanted to do this by offering a variety of packages that offered different levels of learning, whether that be driving tests, online learning platforms, practice tests, etc. 
+**What did you do particularly well?**
+I believe one thing that I did particularly well was the business requirements document and my UML diagrams (after I knew what I was doing), I think that all of my diagrams, in project two, show exactly what I wanted them to demonstrate; and I believe that my business requirements document outlines all of the goals, limitations, and specifications. 
+**If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**
+I believe I would choose to revise my original UML diagrams, as once I sat down and looked over them again I was able to improve them and construe exactly what I wanted them to show. The differences between
+my diagrams from the discussion posts and my diagrams from the projects is exponential. 
+**How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?**
+I believe that I went through our meeting with the client, DriverPass, multiple times, collecting requirements, looking for their wants and needs, and outlining a list of things that I wanted to make sure were included. Including the user's needs when designing a program is one of the most important things, especially when dealing with a client, without the user's needs the program is not what they wanted, but what the programmer wanted. Without the user's needs, the program isnt a job, its a hobby project. 
+**How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?**
+Currently I approach designing software like I approach solving a puzzle. Collect all the requirements, listen to the wants/needs of whoever I am creating a program for, research the possible ways I can solve those problems, and then I create. I may use techniques like UML diagrasms, flow charts, pseudocode, etc., to help me analyze and design a system, however one of the most important strategies I use is agile methodology, which allows me to solve problems in a fluid manner. 
